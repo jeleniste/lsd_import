@@ -1,1 +1,1 @@
-# lsd_transekt_downloader
+# lsd import
